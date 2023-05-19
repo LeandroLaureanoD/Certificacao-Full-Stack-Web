@@ -1,2 +1,3 @@
 # CERTIFICAÇÃO FULL STACK WEB
-https://user-images.githubusercontent.com/57117906/187045090-605fb625-3830-433e-bbdd-f857bb4503d6.jpg
+
+![certificado-full-stack](https://github.com/LeandroLaureanoD/Certificacao-Full-Stack-Web/assets/57117906/c5b410ed-9c0c-49bc-a172-b5ccb0688094)
